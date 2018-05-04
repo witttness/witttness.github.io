@@ -1,0 +1,21 @@
+{
+  "title": "Test GoGo SlideShow",
+  "slideLayouts": [
+    {
+      "layout": "layout-1",
+      "left": [
+          "https://witttness.github.io/images/family-at-the-zoo.jpg",
+          "https://witttness.github.io/images/first-day-of-2nd-grade.jpg",
+          "https://witttness.github.io/images/kids-at-kaldis.jpg",
+          "https://witttness.github.io/images/levi-and-the-seals.jpg"
+      ],
+      "right": [
+          "https://witttness.github.io/images/me-and-my-love.jpg",
+          "https://witttness.github.io/images/my-birthday.jpg",
+          "https://witttness.github.io/images/my-girls-in-corn-rows.jpg",
+          "https://witttness.github.io/images/nicole-on-the-beach.jpg"
+      ],
+      "banner": ["http://via.placeholder.com/1280x190/000000/ffffff.png?text=GoGo+Slideshow+Banner"]
+    }
+  ]
+}
