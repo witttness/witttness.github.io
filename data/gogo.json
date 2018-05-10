@@ -1,0 +1,56 @@
+{
+    "title": "Demo Show",
+    "starts": "2018-05-10T06:13:59.535Z",
+    "urgency": "immediate",
+    "slides": [
+      {
+        "url": "https://witttness.github.io/images/family-at-the-zoo.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/me-and-my-love.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/first-day-of-2nd-grade.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/my-birthday.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/kids-at-kaldis.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/levi-and-the-seals.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/my-girls-in-corn-rows.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/images/nicole-on-the-beach.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      }
+    ],
+    "duration": 15,
+    "transition": "fadeIn",
+    "staticSlides": {
+      "banner": {
+        "url": "http://via.placeholder.com/1280x190/000000/ffffff.png?text=GoGo+Slideshow+Banner",
+        "area": "banner",
+        "bgSize": "cover"
+      }
+    }
+  }
