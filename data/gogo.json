@@ -21,7 +21,8 @@
       {
         "url": "https://witttness.github.io/images/my-birthday.jpg",
         "area": "right",
-        "bgSize": "cover"
+        "bgSize": "cover",
+        "duration": 5
       },
       {
         "url": "https://witttness.github.io/images/kids-at-kaldis.jpg",
