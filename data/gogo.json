@@ -4,43 +4,27 @@
     "urgency": "immediate",
     "slides": [
       {
-        "url": "https://witttness.github.io/images/family-at-the-zoo.jpg",
+        "url": "https://witttness.github.io/demo-img/left/page01.jpg",
         "area": "left",
         "bgSize": "cover"
       },
       {
-        "url": "https://witttness.github.io/images/me-and-my-love.jpg",
+        "url": "https://witttness.github.io/demo-img/left/page02.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/demo-img/left/page03.jpg",
+        "area": "left",
+        "bgSize": "cover"
+      },
+      {
+        "url": "https://witttness.github.io/demo-img/right/page01.jpg",
         "area": "right",
         "bgSize": "cover"
       },
       {
-        "url": "https://witttness.github.io/images/first-day-of-2nd-grade.jpg",
-        "area": "left",
-        "bgSize": "cover"
-      },
-      {
-        "url": "https://witttness.github.io/images/my-birthday.jpg",
-        "area": "right",
-        "bgSize": "cover",
-        "duration": 5
-      },
-      {
-        "url": "https://witttness.github.io/images/kids-at-kaldis.jpg",
-        "area": "left",
-        "bgSize": "cover"
-      },
-      {
-        "url": "https://witttness.github.io/images/levi-and-the-seals.jpg",
-        "area": "left",
-        "bgSize": "cover"
-      },
-      {
-        "url": "https://witttness.github.io/images/my-girls-in-corn-rows.jpg",
-        "area": "right",
-        "bgSize": "cover"
-      },
-      {
-        "url": "https://witttness.github.io/images/nicole-on-the-beach.jpg",
+        "url": "https://witttness.github.io/demo-img/right/page02.jpg",
         "area": "right",
         "bgSize": "cover"
       }
