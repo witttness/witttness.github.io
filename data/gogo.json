@@ -27,12 +27,6 @@
       "url": "https://witttness.github.io/demo-img/right/page02.jpg",
       "area": "right",
       "bgSize": "cover"
-    },
-    {
-      "url":
-        "http://via.placeholder.com/1280x950/ff0000/ffffff.png?text=Extra+Slide",
-      "area": "right",
-      "bgSize": "cover"
     }
   ],
   "duration": 15,
