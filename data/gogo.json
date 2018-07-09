@@ -44,6 +44,12 @@
     {
       "url": "http://via.placeholder.com/1280x950/ff0000/ffffff.png?text=Extra+Slide+2",
       "zone": "landscape"
+    },
+    {
+      "url": "http://via.placeholder.com/1280x950/00ff00/ffffff.png?text=Extra+Slide+3",
+      "zone": "landscape",
+      "inTransition": "fadeInLeft",
+      "outTransition": "fadeOutLeft"
     }
   ]
 }
