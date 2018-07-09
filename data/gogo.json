@@ -1,48 +1,41 @@
 {
-  "title": "Demo Show",
   "starts": "2018-05-10T06:20:20.525Z",
-  "urgency": "immediate",
-  "slides": [
-    {
-      "url": "https://witttness.github.io/demo-img/left/page01.jpg",
-      "area": "left",
-      "bgSize": "cover"
-    },
-    {
-      "url": "https://witttness.github.io/demo-img/left/page02.jpg",
-      "area": "left",
-      "bgSize": "cover"
-    },
-    {
-      "url": "https://witttness.github.io/demo-img/left/page03.jpg",
-      "area": "left",
-      "bgSize": "cover"
-    },
-    {
-      "url": "https://witttness.github.io/demo-img/right/page01.jpg",
-      "area": "right",
-      "bgSize": "cover"
-    },
-    {
-      "url": "https://witttness.github.io/demo-img/right/page02.jpg",
-      "area": "right",
-      "bgSize": "cover"
-    },
-    {
-      "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Extra+Slide",
-      "area": "right",
-      "bgSize": "cover"
-    }
-  ],
-  "duration": 15,
   "nextCheckMinutes": 10,
-  "transition": "fadeIn",
+  "defaultBgSize": "cover",
+  "defaultDuration": 15,
+  "defaultInTransition": "fadeIn",
+  "defaultOutTransition": "fadeOut",
   "staticSlides": {
     "banner": {
       "url":
         "http://via.placeholder.com/1280x190/000000/ffffff.png?text=GoGo+Slideshow+Banner",
-      "area": "banner",
-      "bgSize": "cover"
+      "zone": "banner"
     }
-  }
+  },
+  "slides": [
+    {
+      "url": "https://witttness.github.io/demo-img/left/page01.jpg",
+      "zone": "portrait"
+    },
+    {
+      "url": "https://witttness.github.io/demo-img/left/page02.jpg",
+      "zone": "portrait"
+    },
+    {
+      "url": "https://witttness.github.io/demo-img/left/page03.jpg",
+      "zone": "portrait"
+    },
+    {
+      "url": "https://witttness.github.io/demo-img/right/page01.jpg",
+      "zone": "landscape"
+    },
+    {
+      "url": "https://witttness.github.io/demo-img/right/page02.jpg",
+      "zone": "landscape"
+    },
+    {
+      "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Extra+Slide",
+      "zone": "landscape"
+    }
+  ]
 }
