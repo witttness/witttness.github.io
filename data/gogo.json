@@ -1,6 +1,6 @@
 {
   "starts": "2018-05-10T06:20:20.525Z",
-  "layout": "PBL",
+  "layout": "BPL",
   "nextCheckMinutes": 2,
   "defaultBgSize": "cover",
   "defaultDuration": 15,
@@ -29,7 +29,9 @@
     },
     {
       "url": "https://witttness.github.io/demo-img/right/page01.jpg",
-      "zone": "landscape"
+      "zone": "landscape",
+      "inTransition": "slideInLeft",
+      "outTransition": "slideOutLeft"
     },
     {
       "url": "https://witttness.github.io/demo-img/right/page02.jpg",
@@ -37,6 +39,10 @@
     },
     {
       "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Extra+Slide",
+      "zone": "landscape"
+    },
+    {
+      "url": "http://via.placeholder.com/1280x950/ff0000/ffffff.png?text=Extra+Slide+2",
       "zone": "landscape"
     }
   ]
