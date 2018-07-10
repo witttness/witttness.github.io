@@ -1,6 +1,6 @@
 {
   "starts": "2018-05-10T06:20:20.525Z",
-  "layout": "PLB",
+  "layout": "LPB",
   "nextCheckMinutes": 2,
   "defaultBgSize": "cover",
   "defaultDuration": 15,
@@ -38,11 +38,14 @@
       "zone": "landscape"
     },
     {
-      "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Extra+Slide",
-      "zone": "landscape"
+      "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Hello,+Nicole!",
+      "zone": "landscape",
+      "inTransition": "fadeInRight",
+      "outTransition": "fadeOutRight"
+
     },
     {
-      "url": "http://via.placeholder.com/1280x950/00ff00/ffffff.png?text=Extra+Slide+2",
+      "url": "http://via.placeholder.com/1280x950/00ff00/ffffff.png?text=Daniel+Loves+You",
       "zone": "landscape",
       "inTransition": "fadeInRight",
       "outTransition": "fadeOutRight"
