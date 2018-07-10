@@ -38,17 +38,17 @@
       "zone": "landscape"
     },
     {
-      "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Hello,+Nicole!",
+      "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Hello+from+GoGo!",
       "zone": "landscape",
-      "inTransition": "fadeInRight",
-      "outTransition": "fadeOutRight"
+      "inTransition": "fadeInLeft",
+      "outTransition": "fadeOutLeft"
 
     },
     {
-      "url": "http://via.placeholder.com/1280x950/00ff00/ffffff.png?text=Daniel+Loves+You",
+      "url": "http://via.placeholder.com/1280x950/ff0000/ffffff.png?text=ALERT!!+It+is+time.",
       "zone": "landscape",
-      "inTransition": "fadeInRight",
-      "outTransition": "fadeOutRight"
+      "inTransition": "slideInLeft",
+      "outTransition": "slideOutLeft"
     }
   ]
 }
