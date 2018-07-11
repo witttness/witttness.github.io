@@ -40,15 +40,15 @@
     {
       "url": "http://via.placeholder.com/1280x950/0000ff/ffffff.png?text=Hello+from+GoGo!",
       "zone": "landscape",
-      "inTransition": "fadeInLeft",
-      "outTransition": "fadeOutLeft"
+      "inTransition": "fadeInRight",
+      "outTransition": "fadeOutRight"
 
     },
     {
       "url": "http://via.placeholder.com/1280x950/ff0000/ffffff.png?text=ALERT!!+It+is+time.",
       "zone": "landscape",
-      "inTransition": "slideInLeft",
-      "outTransition": "slideOutLeft"
+      "inTransition": "slideInRight",
+      "outTransition": "slideOutRight"
     }
   ]
 }
